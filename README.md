@@ -1,2 +1,2 @@
-# cubeflow
-An endless runner android app developed in Unity. 
+# Cubeflow
+An endless runner android game developed in Unity. 
